@@ -1,0 +1,11 @@
+{
+  "name": "token-counter",
+  "version": "0.1.0",
+  "description": "Live Claude Code token counter: this session, today, last 14 days, per month, per year and lifetime",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "RathnamS089"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/RathnamS089/claude-token-counter"
+}

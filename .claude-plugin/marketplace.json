@@ -1,0 +1,5 @@
+{
+  "name": "claude-token-counter",
+  "owner": { "name": "RathnamS089" },
+  "plugins": [{ "name": "token-counter", "source": "./" }]
+}
